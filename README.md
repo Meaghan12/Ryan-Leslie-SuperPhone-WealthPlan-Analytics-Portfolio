@@ -1,6 +1,4 @@
-# Ryan-Leslie-SuperPhone-WealthPlan-Analytics-Portfolio
 # Ryan Leslie / SuperPhone WealthPlan Analytics Portfolio
-
 ## Machine Learning, Financial Analytics, and Optimization Projects for Ryan Leslie and Team
 
 This portfolio presents a focused collection of analytics projects designed to demonstrate how machine learning, financial modelling, optimization, and interactive decision systems can support creator-economy strategy, audience monetization, investment thinking, and data-driven business growth.
@@ -23,7 +21,7 @@ The goal is to show not only technical skill, but the ability to turn analytics 
 ---
 
 ## Featured Project: Alpha Quant Engine
-
+**Project / Game Link:** [Alpha Quant Engine](https://alpha-quant-engine.vercel.app)
 The Alpha Quant Engine is an interactive decision-support game that simulates investment and business decision-making under uncertainty. It connects financial signals, AI-assisted guidance, and user decision behaviour into a practical analytics experience.
 
 This project demonstrates:
@@ -35,8 +33,6 @@ This project demonstrates:
 - User choice tracking
 - Business storytelling through analytics
 - Creator-economy and entertainment-finance framing
-
-**Project folder:** `/alpha-quant-engine`
 
 ---
 
@@ -80,9 +76,9 @@ These projects connect analytics with wealth planning, investment evaluation, an
 
 A video demo is included to explain the portfolio, walk through the featured project, and show how the work connects to Ryan Leslie’s business, technology, and creator-economy ecosystem.
 
-**Video demo folder:** `/video-demo`
+**Video Demo:** [Watch the AI-Powered Market/WealthPlan portfolio demo](https://share.descript.com/view/0AG5nn8beHY)
 
----
+--- 
 
 ## Why This Portfolio Matters
 
