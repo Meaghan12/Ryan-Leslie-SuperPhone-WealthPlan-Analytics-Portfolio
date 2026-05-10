@@ -68,8 +68,6 @@ Included project areas:
 
 These projects connect analytics with wealth planning, investment evaluation, and strategic financial decision-making.
 
-**Project folder:** `/finance-analytics-projects`
-
 ---
 
 ## Video Demo
